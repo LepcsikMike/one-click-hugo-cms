@@ -1,7 +1,7 @@
 ---
 title: Schnell und einfachDokumente digital unterschreiben!
-subtitle: Schließen Sie digitalVerträgeoder Vereinbarungenmit Ihren Kunden
-  ab.Medienbruchfreiund ohne Installationkönnen online Prozesse inklusive
+subtitle: Schließen Sie digitalVerträgeoder Vereinbarungenmit Ihren Kunden ab.
+  Medienbruchfreiund ohne Installationkönnen online Prozesse inklusive
   Unterschrift abgeschlossen werden.
 image: img/header.svg
 blurb:
