@@ -1,20 +1,32 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Schnell und einfachDokumente digital unterschreiben!
+subtitle: Schließen Sie digitalVerträgeoder Vereinbarungenmit Ihren Kunden
+  ab.Medienbruchfreiund ohne Installationkönnen online Prozesse inklusive
+  Unterschrift abgeschlossen werden.
+image: img/header.svg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Das bietet CIB doXisign
+  text: Die Handhabung der digitalen Signaturlösung ist einfach gehalten und
+    erfordert keine Installation einer App beim Unterzeichner.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Ihre Vorteile mit CIB doXisign
+  text: Weniger Zeit Ihrer kostbaren Mitarbeiter und ein niedriger Materialeinsatz
+    sind erforderlich
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/header1.svg
+    text: Die Handhabung der digitalen Signaturlösung ist einfach gehalten und
+      erfordert keine Installation einer App beim Unterzeichner.
+  - image: img/header2.svg
+    text: Viele Prozesse können so taggleich abgeschlossen werden, zumTeil sogar
+      nach wenigen Minuten.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
----
+  heading: So funktioniert es
+  text: |-
+    Danach hat der Unterzeichner die Wahl, wie er signieren will
 
+    Mit einem Zertifikat
+    Mit der Maus oder auf dem touch-fähigen Display des Gerätes
+    Per Texteingabe seines Namens
+    Mit einem Bild der handschriftlichen Unterschrift, die er hoch lädt
+    Auf einem mobilen Endgerät über einen QR-Code
+---
