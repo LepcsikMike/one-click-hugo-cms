@@ -19,6 +19,9 @@ products:
   - image: img/header2.svg
     text: Viele Prozesse können so taggleich abgeschlossen werden, zumTeil sogar
       nach wenigen Minuten.
+  - image: img/header3.svg
+    text: Weniger Zeit Ihrer kostbaren Mitarbeiter und ein niedriger Materialeinsatz
+      sind erforderlich
 values:
   heading: So funktioniert es
   text: |-
