@@ -23,7 +23,7 @@ products:
     text: Weniger Zeit Ihrer kostbaren Mitarbeiter und ein niedriger Materialeinsatz
       sind erforderlich
 values:
-  heading: So funktioniert es
+  heading: So funktioniert esfh
   text: |-
     Danach hat der Unterzeichner die Wahl, wie er signieren will
 
@@ -32,4 +32,5 @@ values:
     Per Texteingabe seines Namens
     Mit einem Bild der handschriftlichen Unterschrift, die er hoch lädt
     Auf einem mobilen Endgerät über einen QR-Code
+  image: img/about-sustainable-farming.jpg
 ---
