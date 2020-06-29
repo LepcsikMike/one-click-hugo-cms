@@ -32,5 +32,5 @@ values:
     Per Texteingabe seines Namens
     Mit einem Bild der handschriftlichen Unterschrift, die er hoch lädt
     Auf einem mobilen Endgerät über einen QR-Code
-  image: img/about-sustainable-farming.jpg
+  image: img/cta2.svg
 ---
