@@ -23,7 +23,7 @@ products:
     text: Weniger Zeit Ihrer kostbaren Mitarbeiter und ein niedriger Materialeinsatz
       sind erforderlich
 values:
-  heading: So funktioniert esfh
+  heading: So funktioniert es
   text: |-
     Danach hat der Unterzeichner die Wahl, wie er signieren will
 
