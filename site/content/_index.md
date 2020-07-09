@@ -5,7 +5,7 @@ subtitle: Schließen Sie digitalVerträgeoder Vereinbarungenmit Ihren Kunden ab.
   Unterschrift abgeschlossen werden.
 image: img/header.svg
 blurb:
-  heading: Das bietet CIB doXisign
+  heading: Das bietet CIB doXisignl
   text: Die Handhabung der digitalen Signaturlösung ist einfach gehalten und
     erfordert keine Installation einer App beim Unterzeichner.
 intro:
