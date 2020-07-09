@@ -8,6 +8,7 @@ blurb:
   heading: Das bietet CIB doXisignl
   text: Die Handhabung der digitalen Signaturlösung ist einfach gehalten und
     erfordert keine Installation einer App beim Unterzeichner.
+  image: img/header.svg
 intro:
   heading: Ihre Vorteile mit CIB doXisign
   text: Weniger Zeit Ihrer kostbaren Mitarbeiter und ein niedriger Materialeinsatz
