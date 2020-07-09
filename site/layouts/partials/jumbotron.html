@@ -1,18 +1,32 @@
-<div class="pv5 pv6-l ph3 bg-center cover" style="background-image: url('{{.imageUrl}}')">
-  <div class="mw7 center ph3">
-    <div class="db mb3">
-      <div class="mw7 relative bg-fix-primary mb3">
-        <h1 class="f2 f1-l b di lh-title mb3 white mw6 bg-primary">
-          {{.title}}
-        </h1>
+<!-- Header -->
+<header class="header-text-top">
+  <div class="container">
+      <div class="shape-top"></div>
+      <div class="shape-left"></div>
+      <div class="row">
+          <div class="col-lg-6 header-padding-button mt-2 order-3 order-lg-1">
+
+              <h1 class="pb-4">{{.title}}</h1>
+
+              <h3 class="pb-4">{{ if .subtitle }}</h3>
+
+              <div class="row pb-4 d-flex justify-content-left ">
+                  <div class="col-12 col-xl-4">
+                      <a href="#" target="_blank" class="btn btn-block btn-CTA2" role="button"
+                          aria-pressed="true">Mehr erfahren</a>
+                  </div>
+                  <div class="col-12 col-xl-5 btn-head-top-padding">
+                      <a href="#" target="_blank" class="btn btn-block btn-CTA2-gray" role="button"
+                          aria-pressed="true">zu CIB doXiview</a>
+                  </div>
+              </div>
+
+          </div>
+
+          <div class="col-lg-6 header-img-padding order-1 order-lg-3">
+              <img src="{{.image}}" class="img-fluid" width="650">
+          </div>
+
       </div>
-      <div class="mw7 relative bg-fix-primary">
-        {{ if .subtitle }}
-        <p class="b f4 di lh-title mb3 white mw6 bg-primary">
-          {{.subtitle}}
-        </p>
-        {{ end }}
-      </div>
-    </div>
   </div>
-</div>
+</header>
