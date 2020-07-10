@@ -33,19 +33,6 @@ content:
         Geschäftskunden, darunter namhafte Finanzinstitute und Versicherungen,
         öffentliche Verwaltungen sowie internationale Industrieunternehmen, im
         Einsatz.
-    title: Products test
-    main:
-      heading: .
-      description: .
-      image1:
-        image: img/CIB_Logo.svg
-        alt: .
-      image2:
-        image: img/CIB_Logo.svg
-        alt: .
-      image3:
-        image: img/CIB_Logo.svg
-        alt: .
     type: products
     image: img/aboutcib-2.png
     description: description test
