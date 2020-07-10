@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+  {{ range .content }}
+    {{ if .products }}
+      {{ partial "partials/products.html" . }}
+    {{ end }}
+  {{ end }}
+
+{{ end }}

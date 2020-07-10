@@ -1,0 +1,27 @@
+{{ partial "jumbotron" (dict "imageUrl" .image "title" .Title) }}
+
+{{ partial "4-up" .intro }}
+
+
+{{ with .main }}
+<div class="mw7 center">
+  <div class="mw6 ph3 mb3">
+    <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
+    <p>{{ .description }}</p>
+  </div>
+</div>
+
+<!-- Image grid -->
+{{ partial "image-grid" . }}
+{{ end }}
+
+<div class="pb4">
+  {{ range .testimonials }}
+    {{ partial "blockquote" . }}
+  {{ end }}
+</div>
+
+<!-- Full-width image -->
+<img src="{{ .full_image }}" alt="" class="db w-100">
+
+{{ partial "table" .pricing }}
