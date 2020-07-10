@@ -34,4 +34,16 @@ values:
     Mit einem Bild der handschriftlichen Unterschrift, die er hoch lädt
     Auf einem mobilen Endgerät über einen QR-Code
   image: img/cta2.svg
+
+  testvalues:
+  heading: So funktioniert es
+  text: |-
+    Danach hat der Unterzeichner die Wahl, wie er signieren will
+
+    Mit einem Zertifikat
+    Mit der Maus oder auf dem touch-fähigen Display des Gerätes
+    Per Texteingabe seines Namens
+    Mit einem Bild der handschriftlichen Unterschrift, die er hoch lädt
+    Auf einem mobilen Endgerät über einen QR-Code
+  image: img/cta2.svg
 ---
