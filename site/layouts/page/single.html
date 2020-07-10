@@ -1,8 +1,8 @@
 {{ define "main" }}
 
-  {{ range .content }}
+  {{ range .Params.content }}
     {{ if eq .type "products" }}
-      {{ partial "partials/products.html" . }}
+      {{ partial "products.html" . }}
     {{ end }}
   {{ end }}
 
