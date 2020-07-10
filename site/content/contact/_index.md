@@ -4,7 +4,7 @@ logo: img/CIB_Logo.svg
 contact_entries:
   - heading: Standort
     text: CIB software GmbH Elektrastraße 6a 81925 München Deutschland
-  - heading: GPS: 48.152662, 11.620848
+  - heading: GPS 48.152662, 11.620848
     text: "Telefon (Verwaltung) +49 89 143 60 - 0"
 ---
 
