@@ -1,7 +1,7 @@
 {{ define "main" }}
 
   {{ range .content }}
-    {{ if .products }}
+    {{ if eq .type "products" }}
       {{ partial "partials/products.html" . }}
     {{ end }}
   {{ end }}
