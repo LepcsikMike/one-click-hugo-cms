@@ -16,6 +16,20 @@
 		<li><a href="/post" class="pa3 no-underline db">Blog</a></li>
 
 		<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
+
+		<li class="nav-item dropdown">
+			<a class="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink"
+				data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				<img class="btn-cursor" src="/img/Language.svg" height="auto" width="20"
+					alt="Language">
+			</a>
+			<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+				{{ range $.Site.Home.AllTranslations }}
+            	<a class="dropdown-item" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+            {{ end }}
+			</div>
+		</li>
+
 	</ul>
 
 </nav>
