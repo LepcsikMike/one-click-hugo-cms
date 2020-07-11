@@ -1,9 +1,13 @@
 languageCode = "de-de"
-title = "CIB Proto Site"
-DefaultContentLanguage = "es"
+title = "CIB Test Seite"
+DefaultContentLanguage = "de"
 theme = "cib-theme"
 [languages]
     [languages.de]
+        title = "CIB Test Seite"
         LanguageName = "Deutsch"
+        weight = 1
     [languages.en]
+        title = "CIB Proto Site"
         LanguageName = "English"
+        weight = 2
