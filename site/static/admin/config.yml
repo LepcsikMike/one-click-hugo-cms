@@ -16,6 +16,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "otherpages"
     label: "Other Pages"
     folder: "site/content"
+    filter: {field: "specialpage", value: false}
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
