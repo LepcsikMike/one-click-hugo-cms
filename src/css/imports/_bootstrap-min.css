@@ -2609,8 +2609,8 @@ tbody.collapse.show {
     display: inline-block;
     width: 0;
     height: 0;
-    margin-left: .255em;
-    vertical-align: .5em; /*before .255em*/
+    margin-left: 0em; /*before .255em*/
+    vertical-align: 0em; /*before .5em*/
     content: "";
     border-top: .3em solid;
     border-right: .3em solid transparent;

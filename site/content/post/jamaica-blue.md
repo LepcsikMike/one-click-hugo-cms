@@ -1,28 +1,24 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+title: 'Einstieg bei CIB – Unsere Mitarbeiter erzählen'
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Unsere Reihe „Einstieg bei CIB“ geht in die nächste Runde! Mustafa Kilic macht seit Anfang September bei CIB in München seine Ausbildung zum Fachinformatiker.
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+## Seit wann bist du bei CIB, an welchem Standort und in welchem Bereich?
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Ich bin seit dem 09. September 2019 bei CIB in München und mache hier meine Ausbildung zum Fachinformatiker für Anwendungsentwicklung. 
 
-## A little history
+Zurzeit bin ich in der Qualitätssicherung tätig und arbeite unter anderem mit doXiview und webForm.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+## Warum eine Ausbildung als Fachinformatiker?
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+Nachdem ich meinen Abschluss gemacht habe, habe ich in viele Branchen ein wenig hinein geschaut, um mir ein grobes Bild zu machen, was ich mal werden möchte. Wegen meiner schnellen Auffassungsgabe habe ich immer wieder zu hören bekommen, dass der Beruf als Fachinformatiker für mich geeignet wäre. 
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+Aus diesem Grund habe ich mich dazu entschieden, ein guter Fachinformatiker zu werden.
 
-## What you need to know before trying
+## Warum hast du dich bei CIB beworben?
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+Zunächst habe ich mich für die IT-Branche sehr interessiert. Durch Familienangehörige habe ich das erste Mal von CIB gehört. 
+Dass CIB Lösungen mit Zukunfstechnologien wie KI entwickelt, fand ich sehr spannend.
 

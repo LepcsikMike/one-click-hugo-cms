@@ -137,17 +137,17 @@ a:focus {
 }
 
 h1 {
-    color: #212934 !important;
+    color: #E11E19 !important;
     font-size: 2.5rem!important; /* YR 3rem */
     margin-bottom: 0rem!important;
 }
 
 h2 {
     color: #212934!important;
-    font-size: 2.4rem!important;
+    font-size: 1.4rem!important;
     font-weight: 400!important;
     letter-spacing: -.0625rem!important;
-    line-height: 3.125rem!important;
+    line-height: 2.125rem!important;
     margin-bottom: 0!important
 }
 
@@ -423,7 +423,8 @@ h5 {
 
 .nav-link {
     font-size: 16px;
-    padding-top: 5px;
+    padding-top: 16px;
+    padding-right: 20px;
 }
 
 .nav-link:hover {

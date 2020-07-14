@@ -1,27 +1,16 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
+title: "Dank der CIB U-Kasse sorgenlos in die Rente tanzen"
 date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
-image: /img/blog-flavor_wheel.jpg
+description: Altersvorsorge – ein undankbares Thema, mit dem man sich nicht gerne auseinandersetzt. Wer denkt schon gerne ans älter werden? Doch bei CIB verknüpfen wir unliebsame Themen einfach mit freudigen Ereignissen
+image: /img/IMG_6889.jpg
 ---
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Wenn man sich nur auf die gesetzliche Rentenversicherung verlässt, ist es nahezu unmöglich, seinen vorherigen Lebensstil aufrecht zu erhalten. Selbst mit freiwilligen Beiträgen oder dem Sammeln von Entgeltpunkten, gestaltet es sich schwierig monatlich eine annehmbare Auszahlung zu bekommen.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Doch CIB hat auch hier eine Lösung für euch: Unterstützung mit Hilfe einer betrieblichen Altersvorsorge, der pauschaldotierten Unterstützungskasse. Bei dieser sind Entgeltumwandlungen unbegrenzt steuerfrei, sozialversicherungsfrei (bis 4% BBG, über 4%: SV-Beitrag ~20%), gebührenfrei, ab sofort unverfallbar und bis zum Rentenalter verzinst. CIB zahlt jährlich freiwillige Zuzahlungen, seit 2017 in Höhe von 15%. Diese sind ebenfalls unbegrenzt steuer- und sozialversicherungsfrei sowie unverfallbar nach 3 Jahren. Aktuell liegt der jährliche Zinssatz der CIB mit 1,75% deutlich über dem aktuellen Garantiezins von 0,9% bei Lebens- und Rentenversicherungen (Stand: 2019).
 
-## What the updates mean to you
+Untermalt von witzigen Videos über den Ruhestand, konnte man sich selbst bei diesem doch sehr trockenen Thema ein Lachen nicht komplett verkneifen.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+## Rückblick auf die goldenen 20er
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Im Anschluss an den informativen Part der Veranstaltung ging es dann über zu den Teambuilding Maßnahmen. Bei traditionellen Krapfen, alten schwarz-weiß Klassikern und modischen Flapper Kleidern feierten wir den Fasching. Um sich in die goldenen 20er noch besser hineinversetzen zu können, gab es eine beeindruckende Tanzvorstellung und einen super Charleston Tanzkurs. Der Großteil der Kollegen versuchte sich daran Charleston zu erlernen. Erstaunt hat man im Nachhinein festgestellt: Charleston lässt sich auf die meisten Musikstile tanzen! 
