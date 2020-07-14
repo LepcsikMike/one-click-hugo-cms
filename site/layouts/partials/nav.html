@@ -9,18 +9,18 @@
 	<ul class="flex b grey-3">
 		<li><a href="#InnovativSozialÖkologisch" class="pa3 no-underline db">Über Uns</a></li>
 
-		<li><a href="/values" class="pa3 no-underline db">Beratung</a></li>
+		<li><a href="/values" class="pa3 no-underline db">Berater</a></li>
 
 		<li class="nav-item dropdown">
-			<a class="nav-link dropdown-toggle pa3 no-underline db" href="" id="navbarDropdownMenuLink"
+			<a class="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink"
 				data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-				Produkte
+				Produkte 
 			</a>
 			<div class="dropdown-menu" style="left: -170px;" aria-labelledby="navbarDropdownMenuLink">
-				
-				<a class="dropdown-item" href="/products">CIB doXiview</a>
-				<a class="dropdown-item" href="/products">CIB kanzlei app</a>
-            {{ end }}
+				{{ range $.Site.Home.AllTranslations }}
+            	<a class="dropdown-item" href="{{ .Permalink }}">CIB doXiview</a>
+			{{ end }}
+		
 			</div>
 		</li>
 

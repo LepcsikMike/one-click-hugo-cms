@@ -7,9 +7,7 @@ blurb:
   text: >-
     Als erfolgreiches IT-Unternehmen übernehmen wir Verantwortung und
     unterstützen soziale Projekte und Umwelt-Aktionen.
-
     KEIN PLASTIK MEER
-
     Unser CIB doXibag mit dem flotten Spruch ist selbstverständlich aus 100% Bio-Baumwolle.
   image: img/doxibag-web.png
 intro:
