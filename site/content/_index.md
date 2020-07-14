@@ -1,16 +1,22 @@
 ---
-title: Willkommen bei CIB
-subtitle: 
+title: Willkommen
+subtitle: bei CIB
 image: img/cib-hp-banner.jpg
 blurb:
-  heading: Das bietet CIB doXisignl
-  text: Die Handhabung der digitalen Signaturlösung ist einfach gehalten und
-    erfordert keine Installation einer App beim Unterzeichner. test
-  image: img/header.svg
+  heading: Innovativ, sozial, ökologisch
+  text: >-
+    Als erfolgreiches IT-Unternehmen übernehmen wir Verantwortung und
+    unterstützen soziale Projekte und Umwelt-Aktionen.
+
+    KEIN PLASTIK MEER
+
+    Unser CIB doXibag mit dem flotten Spruch ist selbstverständlich aus 100% Bio-Baumwolle.
+  image: img/doxibag-web.png
 intro:
-  heading: Ihre Vorteile mit CIB doXisign
-  text: Weniger Zeit Ihrer kostbaren Mitarbeiter und ein niedriger Materialeinsatz
-    sind erforderlich
+  heading: CIB fluXkomprimator
+  text: Der CIB fluXkomprimator sorgt für eine erhebliche Datenkompression bei
+    nahezu gleichbleibender Qualität. Somit halten Sie IT-Ressourcen frei und
+    können große Datenmengen blitzschnell versenden.
 products:
   - image: img/header1.svg
     text: Die Handhabung der digitalen Signaturlösung ist einfach gehalten und
