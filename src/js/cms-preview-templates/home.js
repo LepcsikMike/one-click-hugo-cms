@@ -37,7 +37,7 @@ export default class PostPreview extends React.Component {
             </div>
 
             <div className="tc">
-              <a href="#" className="btn raise">See all products</a>
+              <a href="#" className="btn raise">Alle Produkte anzeigen</a>
             </div>
           </div>
         </div>
@@ -58,7 +58,7 @@ export default class PostPreview extends React.Component {
             </div>
 
             <div className="tc">
-              <a href="{{.buttonLink}}" className="btn raise">Read more</a>
+              <a href="{{.buttonLink}}" className="btn raise">Weiterlesen</a>
             </div>
 
           </div>

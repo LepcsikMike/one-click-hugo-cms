@@ -1,23 +1,16 @@
 ---
-title: "Values"
-image: /img/about-jumbotron.jpg
+title: "Berater"
+image: /img/Blog-CIB-Berater.png
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "SEMINARE"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      Die Seminare der CIB Berater finden in den Räumen des Kunden statt. Dadurch entfallen zum einen Reisezeiten und Reisekosten der Teilnehmer, zum anderen können diese die gewohnte Produktivumgebung nutzen.
+    imageUrl: "/img/CIB-seminare.png"
+  - heading: "MIGRATION"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
+      Die Umstellung von Dokumentenvorlagen für das Korrespondenzmanagement erfordert Spezialwissen, das nur in der Anfangsphase eines Dokumentenprojektes erforderlich ist.
+Das benötigte Know-how und mehrjährige Erfahrung aus vielfältigen Projekten bringen die CIB Berater mit, die für Sie die Migration durchführen.
+    imageUrl: "/img/Release_DeepER-b.png"
   - heading: "Sustainable farming"
     text: >
       Sustainable agriculture is farming in sustainable ways based on

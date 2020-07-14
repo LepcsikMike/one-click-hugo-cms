@@ -1,6 +1,6 @@
 ---
-title: Willkommen
-subtitle: bei CIB
+title: Willkommen bei CIB
+subtitle: Ideen mit System
 image: img/cib-hp-banner.jpg
 blurb:
   heading: Innovativ, sozial, ökologisch
