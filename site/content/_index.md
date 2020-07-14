@@ -3,7 +3,7 @@ title: Schnell und einfachDokumente digital unterschreiben!
 subtitle: Schließen Sie digitalVerträgeoder Vereinbarungenmit Ihren Kunden ab.
   Medienbruchfreiund ohne Installationkönnen online Prozesse inklusive
   Unterschrift abgeschlossen werden.
-image: img/header.svg
+image: img/cib-hp-banner.jpg
 blurb:
   heading: Das bietet CIB doXisignl
   text: Die Handhabung der digitalen Signaturlösung ist einfach gehalten und

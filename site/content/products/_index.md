@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: CIB separator
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer

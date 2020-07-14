@@ -2,7 +2,7 @@
 
 	<!-- Logo -->
 	<a href="/" class="pa3 db mr4 h-100 w4 flex-none">
-		<img src="/img/CIB_Logo.svg" alt="CIB" class="br0 db mb0 w-100"/>
+		<img src="/img/CIB_Logo.svg" alt="CIB" class="br0 db mb0 w-60"/>
 	</a>
 
 	<!-- Primary Nav -->
@@ -12,6 +12,19 @@
 		<li><a href="/products" class="pa3 no-underline db">Produkte</a></li>
 
 		<li><a href="/values" class="pa3 no-underline db">Values</a></li>
+
+		<li class="nav-item dropdown">
+			<a class="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink"
+				data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				<img class="btn-cursor" src="/img/Language.svg" height="auto" width="20"
+					alt="Language">
+			</a>
+			<div class="dropdown-menu" style="left: -170px;" aria-labelledby="navbarDropdownMenuLink">
+				{{ range $.Site.Home.AllTranslations }}
+            	<a class="dropdown-item" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+            {{ end }}
+			</div>
+		</li>
 
 		<li><a href="/post" class="pa3 no-underline db">CIB Blog</a></li>
 
@@ -23,7 +36,7 @@
 				<img class="btn-cursor" src="/img/Language.svg" height="auto" width="20"
 					alt="Language">
 			</a>
-			<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+			<div class="dropdown-menu" style="left: -170px;" aria-labelledby="navbarDropdownMenuLink">
 				{{ range $.Site.Home.AllTranslations }}
             	<a class="dropdown-item" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
             {{ end }}
