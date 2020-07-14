@@ -1,5 +1,10 @@
 backend:
-  name: git-gateway
+  #name: git-gateway
+  name: github
+  repo: LepcsikMike/one-click-hugo-cms
+  #name: proxy
+  #proxy_url: http://localhost:8081/api/v1
+  #branch: master
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 collections: # A list of collections the CMS should be able to edit
